@@ -1,3 +1,4 @@
+require 'pry'
 describe "GET '/'" do
   before do
     get '/'
